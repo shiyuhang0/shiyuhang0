@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 ## Contribution languages
 
 [![Contribution languages](https://ossinsight-lite-blond.vercel.app/widgets/contribution-most-used-languages/thumbnail.png)](https://ossinsight-lite-blond.vercel.app/widgets/contribution-most-used-languages)
+
+
+## Contribution monthly
+
+[![Contribution monthly](https://ossinsight-lite-blond.vercel.app/widgets/contribution-monthly/thumbnail.png)](https://ossinsight-lite-blond.vercel.app/widgets/contribution-monthly)
