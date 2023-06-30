@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shiyuhang0/shiyuhang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Contribution languages
+
+[![Contribution languages](https://ossinsight-lite-blond.vercel.app/widgets/contribution-most-used-languages/thumbnail.png)](https://ossinsight-lite-blond.vercel.app/widgets/contribution-most-used-languages)
