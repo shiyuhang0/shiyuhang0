@@ -14,13 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=52435083&period=all_times" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=52435083&period=all_times&image_size=auto&color_scheme=dark" width="728" height="auto">
-    <img alt="Contribution Time Distribution of @shiyuhang0" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=52435083&period=all_times&image_size=auto&color_scheme=light" width="728" height="auto">
-  </picture>
-</a>
-
 
 <a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=52435083&activity_type=all" target="_blank" style="display: block" align="center">
   <picture>
